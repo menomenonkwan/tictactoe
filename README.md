@@ -1,4 +1,4 @@
-live demo: https://csb-xhq45.netlify.app/
+live demo: https://brannonlee-tictactoe.netlify.app/
 
 # tictactoe
 Created with CodeSandbox
